@@ -48,8 +48,8 @@ Year_name → Year
 
 --
 
- 📑 Dataset Details
-**File:** `spotify_history(AutoRecovered).csv`  
+##  Dataset Details
+**File:**  -<a href="https://github.com/aqsarehman530-commits/spotify_history_dashboard_project/blob/main/spotify_data.csv">spotify_dataset</a>
 **Rows:** 142,978  
 **Columns:**
 - `spotify_track_uri` → Unique identifier of each track  
@@ -63,14 +63,15 @@ Year_name → Year
 
 
 
-## 🚀 Possible Analysis
+##  Possible Analysis
 - **Top artists and songs** over time  
 - **Listening duration trends** across days/months/years  
 - **Skip rate analysis** (which songs or artists I skipped most)  
 - **Platform usage** (web, mobile, desktop trends)  
 - **Shuffle listening patterns**  
 - **Start/End reasons** (e.g., autoplay vs. manual selection)  
-
+##  Project file
+**File:**  -<a href="https://github.com/aqsarehman530-commits/spotify_history_dashboard_project/blob/main/spotify_project.csv"> spotify_dataset</a>
 ---
 
 
