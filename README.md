@@ -70,8 +70,10 @@ Year_name → Year
 - **Platform usage** (web, mobile, desktop trends)  
 - **Shuffle listening patterns**  
 - **Start/End reasons** (e.g., autoplay vs. manual selection)  
-##  Project file
-**File:**  -<a href="https://github.com/aqsarehman530-commits/spotify_history_dashboard_project/blob/main/spotify_project.csv"> spotify_dataset</a>
----
+##  Project File
+  -<a href="https://github.com/aqsarehman530-commits/spotify_history_dashboard_project/blob/main/spotify_project.csv"> spotify_dataset</a>
+
+##  Project Dashboard
+<img width="960" height="540" alt="dashbaord" src="https://github.com/user-attachments/assets/c39fd096-e802-41a7-9a47-0d097fa9c215" />
 
 
